@@ -1,0 +1,43 @@
+{
+  "name": "notes.happyaxu.com",
+  "version": "0.0.0",
+  "description": "Denny's technical notes",
+  "homepage": "https://github.com/happyaxu/notes",
+  "private": true,
+  "author": {
+    "name": "Denny",
+    "email": "happyaxu@126.com",
+    "url": "https://happyaxu.com/notes"
+  },
+  "hexo": {
+    "version": "3.2.0"
+  },
+  "dependencies": {
+    "hexo": "^3.1.0",
+    "hexo-deployer-git": "0.1.0",
+    "hexo-generator-archive": "^0.1.2",
+    "hexo-generator-category": "^0.1.2",
+    "hexo-generator-feed": "1.1.0",
+    "hexo-generator-index": "^0.1.2",
+    "hexo-generator-sitemap": "1.1.2",
+    "hexo-generator-tag": "^0.1.1",
+    "hexo-renderer-ejs": "^0.1.0",
+    "hexo-renderer-jade": "0.3.0",
+    "hexo-renderer-marked": "^0.2.4",
+    "hexo-renderer-sass": "0.2.0",
+    "hexo-renderer-stylus": "^0.3.0",
+    "hexo-server": "^0.1.2"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "1.1.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyaxu/notes.git"
+  }
+}
