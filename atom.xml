@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Crawling Snail</title>
-  <subtitle>Despite a slow crawl, but I have been insisted.</subtitle>
+  <title>爬行的蜗牛</title>
+  <subtitle>阿许的技术札记, 记录前行路上的点点滴滴。</subtitle>
   <link href="/notes/atom.xml" rel="self"/>
   
   <link href="http://happyaxu.com/notes/"/>
