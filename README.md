@@ -1,2 +1,2 @@
-# notes
-Technical Notes
+# Blog
+
